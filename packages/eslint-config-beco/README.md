@@ -9,7 +9,7 @@ Pancake Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @becoswap-libs/eslint-config-beco
+npx install-peerdeps --dev @becoswap-libs/eslint-config-pancake
 ```
 
 Add `"extends": "@becoswap-libs/eslint-config-beco"` to your eslint config file.
